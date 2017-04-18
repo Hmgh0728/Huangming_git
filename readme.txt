@@ -4,3 +4,4 @@
  Git trackes changes.
  Creating a new branch is quick AND simple.
  abc:
+ bug branch:
